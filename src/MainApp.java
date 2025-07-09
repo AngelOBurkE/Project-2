@@ -92,9 +92,7 @@ public class MainApp {
     } 
 
     public static double readDouble(Scanner scanner) { 
-
         while (true) { 
-
             try { 
                 return Double.parseDouble(scanner.nextLine()); 
             } catch (NumberFormatException e) { 
