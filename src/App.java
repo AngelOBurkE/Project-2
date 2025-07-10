@@ -4,7 +4,7 @@
  * Assignment: 2.2 Project Software Design and Control Statments  
 */  
 import java.util.Scanner; 
-public class SimpleCalculator { 
+public class App { 
 static class Calculator { 
     double add(double a, double b) { return a + b; } 
     double subtract(double a, double b) { return a - b; } 
