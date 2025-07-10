@@ -73,5 +73,4 @@ public static double getNumber(Scanner input, String prompt) {
     } 
 } 
   
-
 } 
