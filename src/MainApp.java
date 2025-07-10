@@ -97,7 +97,6 @@ public class MainApp {
                 return Double.parseDouble(scanner.nextLine()); 
             } catch (NumberFormatException e) { 
                 System.out.print("Invalid number. Please try again: "); 
-
             } 
 
         } 
